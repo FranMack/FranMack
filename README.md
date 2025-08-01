@@ -27,8 +27,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 **Lenguajes:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
