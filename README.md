@@ -26,27 +26,25 @@
 
 ### 🛠️ Tecnologías y herramientas
 
-**Lenguajes:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+**Lenguajes**
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)  
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) |
+|---|---|
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express)  
-![NestJS](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestjs)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+**Frontend**
 
-**Otros:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
+| ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css) | ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux) |
+|---|---|---|---|
+
+**Backend**
+
+| ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) | ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express) | ![NestJS](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestjs) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) |
+|---|---|---|---|---|
+
+**Otros**
+
+| ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) | ![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest) | ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai) |
+|---|---|---|
 
 ---
 
