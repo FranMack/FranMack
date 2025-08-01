@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Francisco Mackinnon</h1>
-<h3 align="center">Full-Stack Developer | React, Node.js, Nest.js | Ex Ingeniero Civil</h3>
+<h3 align="center">Full-Stack Developer | React, Node.js, Nest.js | Ingeniero Civil</h3>
 
 <p align="center">
   <a href="https://francisco-mackinnon.vercel.app" target="_blank"><strong>🌐 Portfolio</strong></a> |
