@@ -17,9 +17,9 @@
 
 - 🎓 Formado en Ingeniería Civil y luego reconvertido al mundo tech como Full Stack Developer.
 - 🧠 Me gusta construir soluciones eficientes con enfoque en la experiencia del usuario y la escalabilidad.
-- 🚀 Fundador de [ZMdevs](https://www.zmdevs.com/), donde desarrollamos soluciones digitales a medida.
-- 🤖 En proyectos recientes estuve integrando OpenAI con Nest.js y React para crear asistentes conversacionales.
+- 🚀 Co-fundador de [ZMdevs](https://www.zmdevs.com/), donde desarrollamos soluciones digitales a medida.
 - 👨‍🏫 Ex tutor en Plataforma 5, acompañando a estudiantes en su camino dev.
+- 🤖 En proyectos recientes estuve integrando OpenAI con Nest.js y React para crear asistentes conversacionales.
 - 🌱 Actualmente estoy profundizando en arquitecturas backend escalables con Nest.js.
 
 ---
