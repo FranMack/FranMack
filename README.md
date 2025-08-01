@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FranMack/FranMack/blob/main/caricatura.jpg" width="150" height="150" style="border-radius: 50%;" alt="Francisco Mackinnon"/>
+  <img src="https://github.com/FranMack/FranMack/blob/main/caricatura.jpg" width="150" alt="Francisco Mackinnon"/>
 </p>
 
 <h1 align="center">Hola 👋, soy Francisco Mackinnon</h1>
