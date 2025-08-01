@@ -1,88 +1,76 @@
-<p align="center">
-  <img src="https://i.imgur.com/your-image.png" width="150" height="150" style="border-radius: 50%;" alt="Francisco Mackinnon"/>
-</p>
+<div align="center">
+<a href="https://github.com/FranMack">
+<img src="https://avatars.githubusercontent.com/u/8410298?v=4" alt="FranMack" width="150" height="150" style="border-radius:50%;">
+</a>
+<h1>Hola, soy Francisco Mackinnon 👋</h1>
+<h3>Desarrollador Full-Stack & Ingeniero Civil</h3>
+</div>
 
-<h1 align="center">Hola 👋, soy Francisco Mackinnon</h1>
-<h3 align="center">Full-Stack Developer | React, Node.js, Nest.js | Ingeniero Civil</h3>
+💻 Acerca de mí
+Mi experiencia como Ingeniero Civil y mi formación como Desarrollador Full-Stack me brindan una perspectiva única para abordar desafíos. Combino el pensamiento lógico y la capacidad de resolución de problemas de la ingeniería con las habilidades técnicas del desarrollo web.
 
-<p align="center">
-  <a href="https://francisco-mackinnon.vercel.app" target="_blank"><strong>🌐 Portfolio</strong></a> |
-  <a href="https://www.linkedin.com/in/francisco-mackinnon-developer/" target="_blank"><strong>💼 LinkedIn</strong></a> |
-  <a href="https://github.com/FranMack" target="_blank"><strong>📂 Repositorios</strong></a>
-</p>
+Soy una persona autodidacta, con iniciativa y un gran compromiso por seguir creciendo profesional y personalmente. Actualmente, busco unirme a un equipo de trabajo donde pueda aportar valor y continuar mi desarrollo.
 
----
+🛠️ Habilidades y Tecnologías
+Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
-### 💡 Sobre mí
+Lenguajes
+Backend
+Frontend
+Otros
+🚀 Proyectos Destacados
+He aquí una muestra de mis proyectos y contribuciones.
 
-- 🎓 Formado en Ingeniería Civil y luego reconvertido al mundo tech como Full Stack Developer.
-- 🧠 Me gusta construir soluciones eficientes con enfoque en la experiencia del usuario y la escalabilidad.
-- 🚀 Fundador de [ZMdevs](https://www.zmdevs.com/), donde desarrollamos soluciones digitales a medida.
-- 🤖 En proyectos recientes estuve integrando OpenAI con Nest.js y React para crear asistentes conversacionales.
-- 👨‍🏫 Ex tutor en Plataforma 5, acompañando a estudiantes en su camino dev.
-- 🌱 Actualmente estoy profundizando en arquitecturas backend escalables con Nest.js.
+Lovelia
+Descripción: Aplicación web full stack de e-commerce centrada en productos artesanales y sostenibles.
 
----
+Tecnologías: Next.js, React, Redux, Node.js, Express, PostgreSQL.
 
-### 🛠️ Tecnologías y herramientas
+Características: Panel de administración para gestión de productos, carrito de compras, pasarela de pagos integrada, sistema de reseñas de usuarios.
 
-**Lenguajes:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+Nutriendo la Vida
+Descripción: Plataforma digital de consultoría nutricional que conecta a profesionales de la salud con sus pacientes.
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)  
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
+Tecnologías: React, Node.js, MongoDB, JWT, Tailwind CSS.
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express)  
-![NestJS](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestjs)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+Características: Calendario de citas, seguimiento de planes alimenticios personalizados, chat en tiempo real entre paciente y nutricionista.
 
-**Otros:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
+[Nombre de otro Proyecto]
+Descripción: [Añade una breve descripción de tu proyecto aquí.]
 
----
+Tecnologías: [Enumera las tecnologías clave utilizadas.]
 
-### 📂 Algunos proyectos destacados
+Características: [Detalla las funcionalidades principales.]
 
-- 🛒 **E-commerce Fullstack**  
-  [Código](https://github.com/FranMack/ecommerce) | [Demo](https://ecommerce.vercel.app)  
-  Next.js + Node.js + PostgreSQL + Stripe
+💼 Experiencia Laboral
+Business Up - Desarrollador Fullstack (Mar 2025 - Actualmente)
 
-- 🤖 **Asistente IA vía WhatsApp**  
-  [Código privado]  
-  Nest.js + OpenAI API + Express
+Desarrollo de IA conversacional para atención automatizada vía WhatsApp.
 
-- 📦 **App de logística de última milla**  
-  Next.js + Express + geolocalización + monitoreo en tiempo real
+Creación de landing pages y pruebas de concepto.
 
-- 🛠️ **Reportes con visión artificial**  
-  TensorFlow + React + Mobile-first
+ZMdevs - Co fundador y Desarrollador Fullstack (Mar 2024 - Actualmente)
 
----
+Diseño y desarrollo de soluciones digitales a medida (e-commerce, landing pages, chat bots).
 
-### 📈 GitHub Stats
+Plataforma 5 - Tutor de Javascript (Sep 2023 - Dic 2023)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranMack&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranMack&layout=compact&theme=tokyonight" height="180"/>
-</p>
+Brindé acompañamiento técnico a estudiantes, revisando código y promoviendo buenas prácticas.
 
----
+🎓 Formación Académica
+Plataforma 5
 
-### 📫 Contacto
+Curso intensivo de 4 meses (800 hs) orientado al stack PERN.
 
-- 📧 Email: franmack556@gmail.com  
-- 💼 LinkedIn: [francisco-mackinnon-developer](https://www.linkedin.com/in/francisco-mackinnon-developer/)  
-- 🌐 Portfolio: [francisco-mackinnon.vercel.app](https://francisco-mackinnon.vercel.app)
+UTN Facultad Regional Santa Fe
 
----
+Ingeniería Civil (2008 - 2018)
 
-_Gracias por visitar mi perfil 🙌 ¡Estoy abierto a nuevas oportunidades!_
+📫 Contáctame
+Puedes encontrarme en:
+
+GitHub: FranMack
+
+Email: franmack556@gmail.com
+
+LinkedIn: Francisco Mackinnon
