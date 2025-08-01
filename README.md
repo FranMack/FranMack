@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/your-image.png" width="150" height="150" style="border-radius: 50%;" alt="Francisco Mackinnon"/>
+</p>
+
 <h1 align="center">Hola 👋, soy Francisco Mackinnon</h1>
 <h3 align="center">Full-Stack Developer | React, Node.js, Nest.js | Ingeniero Civil</h3>
 
